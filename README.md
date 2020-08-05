@@ -6,7 +6,7 @@
 
 I like to create solutions for real life problems through web and mobile development.
 
-- 🔭 I’m currently working on personal projects.
+- 🔭 I’m currently working on personal projects and available for hiring.
 - 🌱 I’m currently learning more react and react native.
 - 👯 I’m looking to collaborate on fullstack and mobile development.
 - 💬 Ask me about front-end, back-end and mobile development.
