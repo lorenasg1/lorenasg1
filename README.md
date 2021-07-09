@@ -15,8 +15,8 @@ I like to create solutions for real life problems with **code**.
 - ⚡ Fun fact: Besides tech, I enjoy playing acoustic and eletric guitar. 
 - 🗣 You can reach me to talk about any of these subjects.
 
-Stack: react, react-native, nodejs, typescript.
-Other interests: Python. 
+- Stack: react, react-native, nodejs, typescript.
+- Other interests: Python. 
 
 ## Get in touch
 
