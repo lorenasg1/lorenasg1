@@ -16,7 +16,7 @@ I like to create solutions for real life problems with **code**.
 - 🗣 You can reach me to talk about any of these subjects.
 
 - Stack: react, react-native, nodejs, typescript.
-- Other interests: Python. 
+- Other interests: Python e Flutter. 
 
 ## Get in touch
 
