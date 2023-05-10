@@ -1,21 +1,27 @@
-# Hi, I'm Lorena 👋
+# Lorena Sabino Guedes 
 
 <!--
 **lorenasg1/lorenasg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I'm a full-stack web developer from Brazil.
+Here you will find lots of learning and hobby projects, mostly in react, react-native, and nodejs.
 
-- 🔭 I’m available for hiring.
-- 💻 I'm working on my new website and some side projects. 
-- 🌱 I’m currently learning more about **React** and **Node**.
-- 👯 I’m looking to collaborate on web and mobile development.
-- 💬 Ask me about **front-end**, **back-end** and **mobile** development.
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact: Besides tech, I enjoy playing acoustic and eletric guitar. 
-- 🗣 You can reach me to talk about any of these subjects.
+## E aí? 🤙
 
-- Main Stack: react, nextjs, react-native, nodejs, typescript.
-- Other interests: Svelte, Go, and Python. 
+Oi! Meu nome é Lorena.
+
+Sou graduada em Sistemas para Internet pelo Instituto Federal do Rio Grande do Norte.
+
+Trabalho com desenvolvimento de software em tempo integral desde 2021. Antes trabalhava com infraestutura e suporte TI no IFRN e depois na UFRN. Atualmente estou trabalhando na <a href="https://flashapp.com.br">Flash</a> como Software Engineer.
+
+<details close>
+  <summary>🇺🇸  <b>Hi there</b> 👋</summary>
+  
+  Hi! My name is Lorena.
+  
+  I have a degree in Systems for Internet from the Federal Institute of Rio Grande do Norte.
+  I have been working full-time in software development since 2021. Before that, I worked as an IT Technician for IFRN and later UFRN. Currently, I'm working at <a href="https://flashapp.com.br">Flash</a> as a Software Engineer.
+</details>
 
 ## Get in touch
 
