@@ -9,7 +9,7 @@ Oi! Meu nome é Lorena.
 
 Sou graduada em Sistemas para Internet pelo Instituto Federal do Rio Grande do Norte.
 
-Trabalho com desenvolvimento de software em tempo integral desde 2021. Antes trabalhava com infraestutura e suporte TI no IFRN e depois na UFRN. Atualmente estou trabalhando na <a href="https://flashapp.com.br">Flash</a> como Software Engineer.
+Trabalho com desenvolvimento de software em tempo integral desde 2021. Antes trabalhava com infraestutura e suporte TI no <a href="https://portal.ifrn.edu.br/">IFRN</a> e depois na <a href="https://www.ufrn.br/">UFRN</a>. Atualmente estou trabalhando na <a href="https://flashapp.com.br">Flash</a> como Software Engineer.
 
 <details close>
   <summary>🇺🇸  <b>Hi there</b> 👋</summary>
