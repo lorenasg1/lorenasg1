@@ -23,7 +23,7 @@ Trabalho com desenvolvimento de software em tempo integral desde 2021. Antes tra
   I have been working full-time in software development since 2021. Before that, I worked as an IT Technician for IFRN and later UFRN. Currently, I'm working at <a href="https://flashapp.com.br">Flash</a> as a Software Engineer.
 </details>
 
-## Get in touch
+[![Linkedin Badge](https://img.shields.io/badge/-Lorena%20Guedes-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenasguedes)](https://www.linkedin.com/in/lorenasguedes/)
+[![Gmail Badge](https://img.shields.io/badge/-lorenasg1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lorenasg1@gmail.com)](mailto:lorenasg1@gmail.com) 
 
-[![Gmail Badge](https://img.shields.io/badge/-lorenasg1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lorenasg1@gmail.com)](mailto:lorenasg1@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Lorena%20Guedes-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenasguedes)](https://www.linkedin.com/in/lorenasguedes/)
 
