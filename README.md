@@ -3,8 +3,6 @@
 <!--
 **lorenasg1/lorenasg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a full-stack web developer from Brazil.
-Here you will find lots of learning and hobby projects, mostly in react, react-native, and nodejs.
 
 ## E aí? 🤙
 
